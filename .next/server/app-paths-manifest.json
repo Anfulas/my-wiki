@@ -1,0 +1,5 @@
+{
+  "/(platform)/(TaskCenter)/TaskHall/page": "app/(platform)/(TaskCenter)/TaskHall/page.js",
+  "/(platform)/(TaskCenter)/TaskReport/page": "app/(platform)/(TaskCenter)/TaskReport/page.js",
+  "/(platform)/brand/page": "app/(platform)/brand/page.js"
+}
